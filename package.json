@@ -1,0 +1,15 @@
+{
+  "name": "entrega_01",
+  "version": "1.0.1",
+  "description": "Primer entrega para el curso de Node.js TdeA.",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Alejandro Arbelaez Granada - alejo.tkd94@live.com",
+  "license": "ISC"
+}
